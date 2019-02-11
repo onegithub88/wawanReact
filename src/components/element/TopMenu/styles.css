@@ -1,0 +1,22 @@
+.topMenu {
+  width: 80%;
+  margin-left:auto;
+  margin-right:auto;
+  border-bottom: 1px solid #bcbcbc;
+}
+.menuItemActive {
+  color:#fff;
+  background-color: #d1180b;
+  border:0.5px solid #d1180b !important;
+}
+.menuItem {
+  cursor: pointer;
+  padding:10px 40px;
+  align-items: center;
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
+  border-left: 1px solid #bcbcbc;
+  border-top: 1px solid #bcbcbc;
+  border-right: 1px solid #bcbcbc;
+  border-bottom: px solid #fff;
+}

@@ -1,0 +1,17 @@
+.formDisplay{
+  width: 100%;
+  height: 200px;
+}
+.imageSlide{
+  width: 100%;
+  height: 200;
+}
+.boxSlide{
+  height: 100%;
+  padding:0px;
+}
+.formDisplay{
+  overflow: hidden;
+  border:10px solid #fff;
+  
+}
